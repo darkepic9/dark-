@@ -13,7 +13,7 @@ body {
     font-family: arial;
 }
 .container {
-    background: url("./rof.jpg") no-repeat center center/cover;
+    background: url("rof.jpg") no-repeat center center/cover;
     border: 1px solid;
     height: 1200px;
     width: 1080px;
@@ -33,7 +33,7 @@ body {
     color: rgb(7, 13, 24);
     font-size: 20px;
     font-weight: bold;
-    background:url("./bg.jpg.jpg");
+    background:url("bg.jpg.jpg");
     border-radius: 100px;
     padding: 5px 15px;
 }
@@ -45,7 +45,7 @@ body {
     border: 1px solid #d7d7d7;
     margin: 0 5px 0 0;
     box-shadow: 0px 1px 1px rgb(78, 144, 146);
-    background: url("./642781ad575994e4312a1d31ad5626dc.jpg") no-repeat center center #fff;
+    background: url("642781ad575994e4312a1d31ad5626dc.jpg") no-repeat center center #fff;
     background-size: 102% 105% ;
 }
 .pochta {
@@ -74,7 +74,7 @@ body {
     border: 1px solid #d7d7d7;
     margin: 0 5px 0 0;
     box-shadow: 0px 1px 1px rgb(78, 144, 146);
-    background: url("./depositphotos_24475871-stock-photo-mail-black-circle-web-glossy.jpg") no-repeat center center #fff;
+    background: url("depositphotos_24475871-stock-photo-mail-black-circle-web-glossy.jpg") no-repeat center center #fff;
     background-size: 102% 105% ;
 }
 .phone {
@@ -102,7 +102,7 @@ body {
     border: 1px solid #d7d7d7;
     margin: 0 5px 0 0;
     box-shadow: 0px 1px 1px rgb(78, 144, 146);
-    background: url("./gratis-png-logotipo-de-telefono-negro-redondo-icono-de-telefono-archivo-de-telefono.png") no-repeat center center #fff;
+    background: url("gratis-png-logotipo-de-telefono-negro-redondo-icono-de-telefono-archivo-de-telefono.png") no-repeat center center #fff;
     background-size: 102% 105% ;
 }
 header nav {
@@ -125,7 +125,7 @@ header nav ul a {
 
 .banner {
     height: 378px ;
-    background: url("./rof.jpg") no-repeat center center/cover;
+    background: url("rof.jpg") no-repeat center center/cover;
     position: relative;
 }
 .banner .text {
