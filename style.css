@@ -153,7 +153,7 @@ header nav ul a {
     width: 30px;
     height: 30px;
     margin-right: 4px;
-    background-image: url("./search_icons.png");
+    background-image: url("search_icons.png");
 }
 .icons .icon_1{
     background-position: -2px -2px ;
@@ -233,7 +233,7 @@ header nav ul a {
     width: 22px;
     height: 22px;
     margin-right:5px;
-    background: url("./menu_icon.png") no-repeat center center/cover;
+    background: url("menu_icon.png") no-repeat center center/cover;
 }
 
 .resorts {
@@ -262,7 +262,7 @@ header nav ul a {
     width: 27px;
     height: 18px;
     margin-right: 4px;
-    background: url("./flags.png") no-repeat;
+    background: url("flags.png") no-repeat;
 }
 .resorts .item1:before {background-position: -1px -1px;}
 .resorts .item2:before {background-position: -1px -20px;}
@@ -275,7 +275,7 @@ header nav ul a {
 
 .resorts_img {
     height:150px;
-    background: url("./resort.png") no-repeat center center/contain;
+    background: url("resort.png") no-repeat center center/contain;
     margin-bottom:15px;
 }
 .content .right {
@@ -300,12 +300,12 @@ header nav ul a {
 }
 
 
-.top_block-itemwrap .item1 {background: url("./3/chezh.jpg") no-repeat;}
-.top_block-itemwrap .item2 {background: url("./3/france.jpg") no-repeat;}
-.top_block-itemwrap .item3 {background: url("./3/grecia.jpg") no-repeat;}
-.top_block-itemwrap .item4 {background: url("./3/italy.jpg") no-repeat;}
-.top_block-itemwrap .item5 {background: url("./3/roma.jpg") no-repeat;}
-.top_block-itemwrap .item6 {background: url("./3/spain.jpg") no-repeat;}
+.top_block-itemwrap .item1 {background: url("chezh.jpg") no-repeat;}
+.top_block-itemwrap .item2 {background: url("france.jpg") no-repeat;}
+.top_block-itemwrap .item3 {background: url("grecia.jpg") no-repeat;}
+.top_block-itemwrap .item4 {background: url("italy.jpg") no-repeat;}
+.top_block-itemwrap .item5 {background: url("roma.jpg") no-repeat;}
+.top_block-itemwrap .item6 {background: url("spain.jpg") no-repeat;}
 
 
 
