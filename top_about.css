@@ -1,0 +1,49 @@
+.top_about {
+    padding: 20px;
+} 
+.top_about h1 {
+    color: #4a7d9a;
+    font-size: 25px;
+}
+.top_about table {
+    margin: 20px 0;
+    width: 80%;
+    border: 1px solid #cdcdcd;
+    border-collapse: collapse;
+}
+.top_about table th,
+.top_about table td {
+    border: 1px solid #4a7d9a;
+    padding: 10px;
+}
+.top_about p {
+    font-size: 14px;
+    margin: 15px 0;
+    text-indent: 20px;
+}
+.top_about h2 {
+    color: #4a7d9a;
+    font-size: 20px;
+    margin: 20px 0;
+}
+.top_about form {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.top_about form input,
+.top_about form textarea {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #4a7d9a;
+    margin: 5px 0;
+}
+.top_about form textarea {
+    height: 100px;
+}
+.top_about form button {
+    border: none;
+    background: #f8ce25;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
