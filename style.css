@@ -13,7 +13,7 @@ body {
     font-family: arial;
 }
 .container {
-    background: url("../images/rof.jpg") no-repeat center center/cover;
+    background: url("../rof.jpg") no-repeat center center/cover;
     border: 1px solid;
     height: 1200px;
     width: 1080px;
@@ -33,7 +33,7 @@ body {
     color: rgb(7, 13, 24);
     font-size: 20px;
     font-weight: bold;
-    background:url("../images/bg.jpg.jpg");
+    background:url("../bg.jpg.jpg");
     border-radius: 100px;
     padding: 5px 15px;
 }
@@ -45,7 +45,7 @@ body {
     border: 1px solid #d7d7d7;
     margin: 0 5px 0 0;
     box-shadow: 0px 1px 1px rgb(78, 144, 146);
-    background: url("../images/642781ad575994e4312a1d31ad5626dc.jpg") no-repeat center center #fff;
+    background: url("../642781ad575994e4312a1d31ad5626dc.jpg") no-repeat center center #fff;
     background-size: 102% 105% ;
 }
 .pochta {
@@ -74,7 +74,7 @@ body {
     border: 1px solid #d7d7d7;
     margin: 0 5px 0 0;
     box-shadow: 0px 1px 1px rgb(78, 144, 146);
-    background: url("../images/depositphotos_24475871-stock-photo-mail-black-circle-web-glossy.jpg") no-repeat center center #fff;
+    background: url("../depositphotos_24475871-stock-photo-mail-black-circle-web-glossy.jpg") no-repeat center center #fff;
     background-size: 102% 105% ;
 }
 .phone {
@@ -102,7 +102,7 @@ body {
     border: 1px solid #d7d7d7;
     margin: 0 5px 0 0;
     box-shadow: 0px 1px 1px rgb(78, 144, 146);
-    background: url("../images/gratis-png-logotipo-de-telefono-negro-redondo-icono-de-telefono-archivo-de-telefono.png") no-repeat center center #fff;
+    background: url("../gratis-png-logotipo-de-telefono-negro-redondo-icono-de-telefono-archivo-de-telefono.png") no-repeat center center #fff;
     background-size: 102% 105% ;
 }
 header nav {
@@ -125,7 +125,7 @@ header nav ul a {
 
 .banner {
     height: 378px ;
-    background: url("../images/rof.jpg") no-repeat center center/cover;
+    background: url("../rof.jpg") no-repeat center center/cover;
     position: relative;
 }
 .banner .text {
@@ -153,7 +153,7 @@ header nav ul a {
     width: 30px;
     height: 30px;
     margin-right: 4px;
-    background-image: url("../images/search_icons.png");
+    background-image: url("../search_icons.png");
 }
 .icons .icon_1{
     background-position: -2px -2px ;
@@ -233,7 +233,7 @@ header nav ul a {
     width: 22px;
     height: 22px;
     margin-right:5px;
-    background: url("../images/menu_icon.png") no-repeat center center/cover;
+    background: url("../menu_icon.png") no-repeat center center/cover;
 }
 
 .resorts {
@@ -262,7 +262,7 @@ header nav ul a {
     width: 27px;
     height: 18px;
     margin-right: 4px;
-    background: url("../images/flags.png") no-repeat;
+    background: url("../flags.png") no-repeat;
 }
 .resorts .item1:before {background-position: -1px -1px;}
 .resorts .item2:before {background-position: -1px -20px;}
@@ -275,7 +275,7 @@ header nav ul a {
 
 .resorts_img {
     height:150px;
-    background: url("../images/resort.png") no-repeat center center/contain;
+    background: url("../resort.png") no-repeat center center/contain;
     margin-bottom:15px;
 }
 .content .right {
@@ -300,12 +300,12 @@ header nav ul a {
 }
 
 
-.top_block-itemwrap .item1 {background: url("../images/3/chezh.jpg") no-repeat;}
-.top_block-itemwrap .item2 {background: url("../images/3/france.jpg") no-repeat;}
-.top_block-itemwrap .item3 {background: url("../images/3/grecia.jpg") no-repeat;}
-.top_block-itemwrap .item4 {background: url("../images/3/italy.jpg") no-repeat;}
-.top_block-itemwrap .item5 {background: url("../images/3/roma.jpg") no-repeat;}
-.top_block-itemwrap .item6 {background: url("../images/3/spain.jpg") no-repeat;}
+.top_block-itemwrap .item1 {background: url("../3/chezh.jpg") no-repeat;}
+.top_block-itemwrap .item2 {background: url("../3/france.jpg") no-repeat;}
+.top_block-itemwrap .item3 {background: url("../3/grecia.jpg") no-repeat;}
+.top_block-itemwrap .item4 {background: url("../3/italy.jpg") no-repeat;}
+.top_block-itemwrap .item5 {background: url("../3/roma.jpg") no-repeat;}
+.top_block-itemwrap .item6 {background: url("../3/spain.jpg") no-repeat;}
 
 
 
